@@ -35,7 +35,6 @@ end
 
 main()
 
-
 p FIB_ARRAY
 
 p fibs(10)
